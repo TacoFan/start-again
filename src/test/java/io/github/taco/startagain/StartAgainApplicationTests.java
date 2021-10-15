@@ -1,4 +1,4 @@
-package io.github.startagain;
+package io.github.taco.startagain;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

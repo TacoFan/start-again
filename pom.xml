@@ -8,7 +8,7 @@
         <version>2.1.5.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>io.github</groupId>
+    <groupId>io.github.taco</groupId>
     <artifactId>start-again</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>start-again</name>

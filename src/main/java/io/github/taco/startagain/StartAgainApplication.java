@@ -1,4 +1,4 @@
-package io.github.startagain;
+package io.github.taco.startagain;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
